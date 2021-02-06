@@ -1,0 +1,495 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://www.transcotta.com/wp-content/themes/transcotta/img/sugest%C3%B5es.png" group-title="CONTATO E DOAÇÃO", SUGESTÃO? AVISE-NOS
+https://SUGESTÃO
+
+#EXTINF:0 tvg-logo="https://img.icons8.com/ios-glyphs/1600/tv-off.png" group-title="CONTATO E DOAÇÃO", CANAL OFF? AVISE-NOS
+https://CANAL OFF
+ 
+#EXTINF:0 tvg-logo="http://icons.iconarchive.com/icons/sicons/basic-round-social/512/twitter-icon.png" group-title="CONTATO E DOAÇÃO", TWITTER: @ITALOOHUGO
+https://twitter.com/italoohugo
+
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" group-title="CONTATO E DOAÇÃO", TELEGRAM: @ITALOHUGO
+https://TELEGRAM
+
+#EXTINF:0 tvg-logo="https://img.icons8.com/cotton/1600/donation.png" group-title="CONTATO E DOAÇÃO", ALUDE A MANTER A LISTA
+http://DOAÇÃO
+
+#EXTINF:0 tvg-logo="https://apprecs.org/gp/images/app-icons/300/f3/com.picpay.jpg" group-title="CONTATO E DOAÇÃO", PICPAY: ITALOHUGO
+http://PICPAY
+ 
+
+########################################################### CANAIS ABERTOS
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS ABERTOS", BAND (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w49369370.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="CANAIS ABERTOS",TV PAMPA (REDE TV RS)
+https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8?wowzasessionid=451185735
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ16BWSJ1_Q5KRHs75rQ1JI)/dm/3/x7txn7q/s/live-2.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO HD
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ16BWSJ1_Q5KRHs75rQ1JI)/dm/3/x7txn7q/s/live-3.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO FULL HD
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ16BWSJ1_Q5KRHs75rQ1JI)/dm/3/x7txn7q/s/live-4.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Manchete_M_logo.svg/200px-Manchete_M_logo.svg.png" group-title="CANAIS ABERTOS" , TV MANCHETE
+https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w350733453.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (SP)
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (SP HD)
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (RJ)
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (RJ HD)
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (BA)
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (MG)
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://www.sidys.com.br/pacotes/img/sidystv.jpg" group-title="CANAIS ABERTOS", SIDY´S TV
+rtmp://177.105.176.17/live/canal4
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/Logotipo_da_Rede_Uni%C3%A3o.png/230px-Logotipo_da_Rede_Uni%C3%A3o.png" group-title="CANAIS ABERTOS", TV UNIÃO
+https://stmv1.srvif.com/tvu/tvu/chunklist_w612896880.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="CANAIS ABERTOS" , TV BRASIL
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcamara.png" group-title="CANAIS ABERTOS" , TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="CANAIS ABERTOS", CATVE (TV CULTURA PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV CULTURA (RN)
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w467899687.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV CULTURA (BA)
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="CANAIS ABERTOS", FUTURA
+https://tv.unisc.br/hls/test.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TV_Escola.png/235px-TV_Escola.png" group-title="CANAIS ABERTOS", TV ESCOLA
+https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(Fhr_fS_s1WU)r(TOqkzw)a(sSWVGg)p(d(lCo)k(oxI)m(0NlfRQL4hQeksMrQZRs7UQ)n(a(fRLqog)s(Zsw)'a(_jkg4w)s(Ah4)))s(s(kSs)b(1ax-4SvOSH-ThnD7Etw8GR-Aq-jEhG-r5y3SKHbONqZD5ZM33ZJBNiomWdDTQzpz0HzsIts_pAHeEKkBaw)'s(cj0)b(bCMKmDdCxGHyseIiJSwK9VEU8oc0ybMUeUoe_xGptmqSceehmx7KYd4voFP0CslEjs2SP4FIO6Al24-R7hUdFDVLJEPlUZkTKUmBiqYE)'s(0Ag)b(kAtrIFLM))m(0))/tvescola_index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS ABERTOS", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png" group-title="CANAIS ABERTOS", SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts=st=1565289181~exp=1565295781~acl=/*~hmac=c7a1ed79862cc39ae31f4737d98663ece8bd6f8a237e000fdc9ebac2e3768053
+
+
+
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/DDKzaw33VPIWUw-fY5QK027meJJJWn3Y9rhRleOqRHlwWRfyByYT6ZLDHLGcWJpDsB0" group-title="CANAIS ABERTOS", 1001 NOITES
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1882317162_b1601536.m3u8
+
+
+########################################################### RELIGIÃO
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="RELIGIÃO", TV APARECIDA
+https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_480p/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="RELIGIÃO", TV APARECIDA HD
+https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_720p/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pH6htYz.png?1" group-title="RELIGIÃO", TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk=s180" group-title="RELIGIÃO", REDE SECULO 21
+https://dd8umsy8yf96u.cloudfront.net/live/rs21_240p264k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="RELIGIÃO", REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="RELIGIÃO", TV UNIVERSAL
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_a654e2a7-5c90-46da-8764-f49d879c347f.m3u8
+
+
+########################################################### NOTICIAS
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/245px-CNN_Brasil.svg.png" group-title="NOTICIAS", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+
+#EXTINF:0 tvg-logo="http://cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS", TV CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS", RECORD NEWS HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS", RECORD NEWS (ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2084539512.m3u8
+
+
+########################################################### MUNDO
+
+
+#EXTINF:0 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO" group-title="MUNDO", BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XR3C9Nd.png?1" group-title="MUNDO", FOX 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANRpSvd.png?1" group-title="MUNDO", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="MUNDO", NHK JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="MUNDO", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png" group-title="MUNDO", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+
+########################################################### VARIEDADES
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rvbIfDo.png" group-title="VARIEDADES", YEEAH! TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1935724233.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/200px-Top_TV_logo.svg.png" group-title="VARIEDADES", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1076175471.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="VARIEDADES", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png?fit=500%2C300" group-title="VARIEDADES", ALL SPORTS 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1900225297.m3u8
+
+
+
+########################################################### FILMES/SERIES
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1024px-Rai_Movie_-_Logo_2017.svg.png" group-title="FILMES/SERIES", RAI Movie
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://static.tumblr.com/b0305ebabfd70f5124993f78570c1520/tfeircd/H8loj9vfx/tumblr_static_65akcisiw0co8s40cwc444s8g.png" group-title="FILMES/SERIES", TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eNLDK5O1Nbs/TbxYOimwaPI/AAAAAAAAAZk/aR5CYVQlxgo/s1600/LOGO.jpg" group-title="FILMES/SERIES", CINE GOSPEL 
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="FILMES/SERIES", GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="FILMES/SERIES", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+
+
+########################################################### REGIONAIS
+
+#EXTINF:0 tvg-logo="http://tvmaceio.tv.br/wp-content/uploads/2015/07/tv-logo-2-novo.png" group-title="REGIONAIS",TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mar-alagoas_m.png" group-title="REGIONAIS", TV MAR [AL]
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1508959925.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="REGIONAIS",REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0  tvg-logo="http://tvjsid.com.br/wp-content/uploads/2017/10/Simbolo-tv-Jsid-sem-fundo-120x120.png" group-title="REGIONAIS", TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+
+#EXTINF:0  tvg-logo="https://3.bp.blogspot.com/-lbuHpxXcxvk/W1JNf7SwSkI/AAAAAAAAxIY/xazC2hGWhkIBAm84CJs1iGqBDMc6QMU3wCLcBGAs/s320/LOGO+TV-0.png" group-title="REGIONAIS", TV ARACATI [CE]
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/l0TyXIA.png" group-title="REGIONAIS", TV PANTANAL [MS]
+https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.jacutinga.mg.gov.br/site/images/2019/2_FEVEREIRO/rede_minas.jpg" group-title="REGIONAIS" , REDE MINAS [MG]
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1974272.m3u8?sts=st=1592942561~exp=1592949161~acl=/*~hmac=1a8b14681a602fee817ca1638daeee8088de9349ed62e7c9e75bbb95d5e0d421
+
+#EXTINF:0 tvg-logo="http://www.candides.com/images/xtv_candides.png.pagespeed.ic.iv-Ox4ApfF.png" group-title="REGIONAIS" , TV CANDIDÉS [MG]
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b2146304.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="REGIONAIS", TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_Z2ukNYyoZoDtPVziwI-ElNTyoERRNp_eYSnt2qEpQ4KAQKy" group-title="REGIONAIS" ,TRANSAMERICA TV [PR]
+rtmp://tvtransamerica.crossdigital.com.br/ponto2/transamerica2
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="REGIONAIS" ,CENTRAL TV [PR]
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1425693227.m3u8
+
+#EXTINF:0 tvg-logo="http://www.sidys.com.br/pacotes/img/sidystv.jpg" group-title="REGIONAIS", SIDY´S TV [RN]
+rtmp://177.105.176.17/live/canal4
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONAIS", TV KURTIÇÃO [RN]
+https://5c64355d4b57c.streamlock.net:1936/alexandrekurticao/alexandrekurticao/chunklist_w436928674.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="REGIONAIS", TV CIDADE OESTE [RN]
+http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8
+
+#EXTINF:0 tvg-logo="https://lirp-cdn.multiscreensite.com/3c283fe1/dms3rep/multi/opt/livretv-358w.png" group-title="REGIONAIS", LIVRE TV [RN]
+https://video01.kshost.com.br/lindon8564/lindon8564/chunklist_w1092614667.m3u8
+
+#EXTINF:0 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/24/TV-NATAL.png" group-title="REGIONAIS", TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBQzSQxLapaNCnzkVhfKPQPtwrwOlbSpYvNjVqXBxjFxa0baR" group-title="REGIONAIS", TV A PLATEIA [RS]
+https://srv-rs1.sisdera.com/hls/1/tvap/1_720p/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JU1fROXu8IxHFRWmcgfaIDIeIzb8NYAqdItBa93p0Hkv4qgX&s" group-title="REGIONAIS", TV GALEGA [SC]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/71/44/f6/7144f6fb-9c17-90c7-a39a-4d3bffcadba3/source/512x512bb.jpg" group-title="REGIONAIS" , TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:0 tvg-logo="https://chk.com.br/wp-content/uploads/2017/04/CAMARA-MUNICIPAL-DE-SP.png" group-title="REGIONAIS" , TV CÂMARA MUNICIPAL [SP]
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/chunklist_b2690048.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/0c9eb6_188a3d2f73b94d3f97e09e9f86d06d7d~mv2_d_2362_2362_s_2.jpg" group-title="REGIONAIS" , TV SANTA CECILIA [SP]
+http://flash1.crossdigital.com.br/2063/2063/chunklist_w59754331.m3u8
+
+
+
+########################################################### RÁDIOS
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://lh3.googleusercontent.com/gOCHsgzTQjGXs3q4y8dNCwpxWDd4L0Wt6Snz6xwrJCXVCWc17rL67o8RAMuEaipz0ZV1=s180" TVG-NAME=''RADIO=TRUE, Shock Wave Radio
+http://radioup.top:8010/app.mp3?1584567352207
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio34123_1447066982.jpg" TVG-NAME=''RADIO=TRUE, Radio Povo FM 87.9
+http://149.56.167.236:8079/.ogg
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10705_1483434697.jpg" TVG-NAME=''RADIO=TRUE, Radio Caicó AM 1290
+http://149.56.167.236:8089/.ogg
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14387_1439401460.JPG" TVG-NAME=''RADIO=TRUE, Rádio Rural 830 AM
+http://str.radiorural.com:8011/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio17270_1439401503.JPG" TVG-NAME=''RADIO=TRUE, Rádio Rural 95 FM
+http://str.radiorural.com:8010/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14642_1516615140.png" TVG-NAME=''RADIO=TRUE, Rádio Solidariedade 106 FM
+http://149.56.167.236:8081/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" TVG-NAME=''RADIO=TRUE, Jovem Pan Seridó
+http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" TVG-NAME=''RADIO=TRUE, Rádio Verdes Mares AM 810
+http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11839_1481542862.png" TVG-NAME=''RADIO=TRUE, Rádio Clube 105.5 FM
+http://5940.live.upx.net.br:9082/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13213_1489754950.png" TVG-NAME=''RADIO=TRUE, Rádio FM O Dia FM 100.5
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio25654_1466337048.png" TVG-NAME=''RADIO=TRUE, Rádio Coca Cola FM
+http://listen.181fm.com:7080/181-power_128k.mp3
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BH_FM_logo.svg/1200px-BH_FM_logo.svg.png" TVG-NAME=''RADIO=TRUE, BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11886_1439401393.jpg" TVG-NAME=''RADIO=TRUE, Rádio Clube do Pará 690 AM
+http://ice01.kshost.com.br:8000/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14_1439400387.jpg" TVG-NAME=''RADIO=TRUE, Rádio Itatiaia 610 AM 95.7 FM
+http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio8829_1534247256.png" TVG-NAME=''RADIO=TRUE, Radio Jovempan FM
+https://16933.live.streamtheworld.com/JP_SP_FMAAC.aac
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14742_1503923573.PNG" TVG-NAME=''RADIO=TRUE, Rádio Transamérica Hits FM 95.5
+http://sl.dnip.com.br:9625/;
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/R%C3%A1dio_Globo_logo_2017_vertical.svg/200px-R%C3%A1dio_Globo_logo_2017_vertical.svg.png" TVG-NAME=''RADIO=TRUE, Radio Globo FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:0 tvg-logo="" group-title=" ",
+
+
+########################################################### SOUND
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ELETRÔNICA
+http://192.99.150.31:9095/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FESTA
+http://6d9a.webradio.upx.net.br:9070/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORRÓ
+http://192.99.150.31:9019/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FUNK
+http://192.99.150.31:9089/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,GOSPEL
+http://192.99.150.31:9101/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,HIP HOP
+http://192.99.150.31:8721/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,KIDS
+http://192.99.150.31:9431/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,JAZZ
+http://192.99.150.31:8042/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,METAL
+http://6d9a.webradio.upx.net.br:9898/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,MPB
+http://192.99.150.31:8775/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP HITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+
+##################################################################### TEMPORARIOS
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="TEMPORARIOS", ESPN BRASIL
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="TEMPORARIOS", ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="TEMPORARIOS", ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/associacaoneo.com.br/wp-content/uploads/2019/03/ESPNExtra.png?fit=800%2C600&ssl=1" group-title="TEMPORARIOS", ESPN EXTRA
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="TEMPORARIOS", FOX SPORTS HD
+http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/index.m3u8?token=UmZjfV4U_mwZbSxggAQ9gg==,1586974168.1679989495
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="TEMPORARIOS", FOX SPORTS 2 HD
+http://195.181.163.183:2200/PY-N/Fox_Sports_2_HD-br/index.m3u8?token=UmZjfV4U_mwZbSxggAQ9gg==,1586974168.1679989495
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="TEMPORARIOS", SPORTV HD
+http://195.181.163.183:2200/PY-N/Sportv_HD-br/index.m3u8?token=2RFbDD2crZR6DO-95qGJYQ==,1586972807.1679989495
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="TEMPORARIOS", SPORTV 2 HD
+http://195.181.163.183:2200/PY-N/Sportv_2_HD-br/index.m3u8?token=2RFbDD2crZR6DO-95qGJYQ==,1586972807.1679989495
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/21X6WZP.png" group-title="TEMPORARIOS", SPORTV 3
+http://195.181.163.183:2200/PY-N/Sportv_3_HD-br/index.m3u8?token=VvBug45LKAU6e9yygyEliw==,1586973169.1679989495
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sBjm44S.png" group-title="TEMPORARIOS", PREMIERE CLUBES
+http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8?token=_NdpgLJ82b7IDBE9tlYClQ==,1586973689.1679989495
+
+
+
+#EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="TEMPORARIOS", DISCOVERY CHANNEL
+http://189.91.128.150:5555/udp/227.10.20.80:1234
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="TEMPORARIOS", ANIMAL PLANET
+http://189.91.128.150:5555/udp/227.10.20.118:1234
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png" group-title="TEMPORARIOS", HISTORY
+http://189.91.128.150:5555/udp/227.10.20.130:1234
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TEMPORARIOS", WARNER TV
+http://189.91.128.150:5555/udp/227.10.20.126:1234
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TEMPORARIOS", UNIVERSAL CHANNEL
+http://189.91.128.150:5555/udp/227.10.20.88:1234
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1200px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="TEMPORARIOS", DISNEY XD
+http://189.91.128.150:5555/udp/227.10.20.110:1234
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="TEMPORARIOS", DISNEY CHANNEL
+http://189.91.128.150:5555/udp/227.10.20.90:1234
